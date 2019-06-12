@@ -1,6 +1,7 @@
 <?php
 
 //action.php
+//rest api for staging branch
 
 if(isset($_POST["action"]))
 {
